@@ -5,3 +5,5 @@ pillow
 xgboost
 pandas
 numpy
+streamlit
+py3Dmol
