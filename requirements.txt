@@ -7,3 +7,4 @@ pandas
 numpy
 streamlit
 py3Dmol
+stmol
