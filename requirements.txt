@@ -1,4 +1,7 @@
 streamlit
-py3Dmol
-stmol
-ipywidgets
+torch
+torchvision
+pillow
+xgboost
+pandas
+numpy
